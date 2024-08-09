@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="BOLA MALAYSIA ( MFL )🇲🇾" tvg-id="803.astro" tvg-channel="803" tvg-name="ARENA BOLA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" ,803 Arena Bola 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tTXdNakl6T0RRdFpXUXdNeTAwT0RNeExXRmlZVFl0WmpWaVpqQTRZVE5qT0dJeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzQyOTk0MCwiaWF0IjoxNzIyODI1OTQwfQ.WVnRRHmbjeIum8Nc9nrKx2WCX7UmU0UlzZWLlhF39oQ"} 
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpHUTVPR1UzWVRrdE5ESXhPUzAwTmpsbUxUbGlNVFV0TVdZMk9UZzJOR1k1WmpKbCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzY5NTcxMiwiaWF0IjoxNzIzMDkxNzEyfQ.RfoejY9x1T7sjMbIw1koeDtDX3PzmLL-QW00CkRzkME"} 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -12,7 +12,7 @@ https://live.aqfadtv.xyz/sooka/arenabola/index.mpd
 
 #EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="BOLA MALAYSIA ( MFL )🇲🇾",804 Arena Bola 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tTXdNakl6T0RRdFpXUXdNeTAwT0RNeExXRmlZVFl0WmpWaVpqQTRZVE5qT0dJeiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzQyOTk0MCwiaWF0IjoxNzIyODI1OTQwfQ.WVnRRHmbjeIum8Nc9nrKx2WCX7UmU0UlzZWLlhF39oQ"} 
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpHUTVPR1UzWVRrdE5ESXhPUzAwTmpsbUxUbGlNVFV0TVdZMk9UZzJOR1k1WmpKbCIsIndtb3BpZCI6MzIsImV4cCI6MTcyMzY5NTcxMiwiaWF0IjoxNzIzMDkxNzEyfQ.RfoejY9x1T7sjMbIw1koeDtDX3PzmLL-QW00CkRzkME"} 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
